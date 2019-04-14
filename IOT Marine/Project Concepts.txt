@@ -1,0 +1,10 @@
+concepts :
+1.get a signal from gps : https://www.youtube.com/watch?v=IoRQiNFzT0k
+2.GPS to arduino : http://allaboutee.com/2012/12/03/arduino-gps-tutorial-get-latitude-and-longitude-coordinates/
+3.Ardino to zigbee : refer  my image http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Arduino_and_XBee_Communication
+4.zigbee to zigbee : coding in slide (transceiver coding)http://www.ardumotive.com/how-to-use-xbee-modules-as-transmitter--receiver-en.html
+                                 https://sonyarouje.com/2016/01/21/communication-between-raspberry-pi-and-arduino-using-xbee/
+5.zigbee to pi  :http://www.rhydolabz.com/wiki/?p=10868
+6.pi to mqtt : https://www.youtube.com/watch?v=1CGfGuZqmhc            
+                       http://frrut.com/trrak/
+7.mqtt to phone 

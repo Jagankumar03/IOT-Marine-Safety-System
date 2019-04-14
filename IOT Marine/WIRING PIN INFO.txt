@@ -1,0 +1,38 @@
+IOT BASED MARINE SAEFTY SYSTEM
+Wiring 
+
+1. BOAT SIDE
+GPS TO ARDUINO
+In GPS -------------- Black-2pin(middle)
+      --------------- Red(3pin from left)
+Arduino 
+
+----------------------Black-in 2 set (3pin)
+----------------------Red (8pin)
+
+Arduino to Zigbee 
+Zigbee---------------Red-1pin
+---------------------GREEN-2PIN
+---------------------BLACK-3PIN'
+---------------------YELLOW-4PIN
+ARDIUNO--------------Green-rx-0
+---------------------LIGHT RED-tx-1
+---------------------BLACK-2PIN(2SET-GND)
+---------------------YELLOW-5V
+BUZZER---------------BLACK-GND
+---------------------LITE RED-2 SET(UIN)
+---------------------RED-2
+
+
+2.CONTROL ROOM
+PI TO ZIGBEE
+ZIGBEE (FROM LEFT)
+------------------RX-BLACK
+------------------TX-LIGHT RED
+------------------GND-DARK RED
+------------------5V-ORANGE
+
+PI---------------ORANGE-2
+-----------------RED-3
+----------------BLACK-4
+----------------LIGHT RED-5

@@ -1,0 +1,11 @@
+Poject Summary :
+1.Open the fing app where the pi ip is connected to which network put that ip in remote desktop connection.
+2.Then,open the terminal window,put cd enter then cd paste the required path in which the file has been created nd enter
+3.Then,sudo python main.py(command)enter
+4.Do for all storm , Bordercrossed and border reaching
+5.Then,show that in web browser in locate
+6.Then,webpage
+
+Do's 
+1.Configure the pi ip
+2.Change the sms no and password.
